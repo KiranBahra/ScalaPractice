@@ -4,7 +4,7 @@
 		module="tddpractice-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20181011221017"
+		publication="20181118171817"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
