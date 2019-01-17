@@ -2,70 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c9a5930-0f19-410c-8a25-c508fee2f88f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/UnitTestFizzBuzzSpec.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDDPractice/src/main/scala/FizzBuzz.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDDPractice/src/test/scala/scalatest/FizzBuzzSpec.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala-options" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala-options" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Scala101-Practical1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Scala101-Practical1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practical1.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practical2.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practical4 - conditions.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practical5 - conditions.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practical6 - functions.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practical7 - UnitTest1.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practical8 - UnitTest2.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/.idea/modules/TDDPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/.idea/modules/TDDPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/default/tddpractice-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/default/tddpractice-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/default/tddpractice-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/default/tddpractice-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-tddpractice-build-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/default/tddpractice$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/default/tddpractice$sources/0.1/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/default/tddpractice$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/default/tddpractice$sources/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/default/tddpractice_2.12/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/default/tddpractice_2.12/0.1/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/default/tddpractice_2.12/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/default/tddpractice_2.12/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice$sources-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/resolution-cache/reports/default-tddpractice_2.12-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/scala-2.12/test-classes/scalatest/TwoNumbersSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TDDPractice/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TDDPractice/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala-if-else" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-if-else" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Practical1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Practical1.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Practical6 - functions.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Practical6 - functions.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala-if-else - Completed" beforeDir="false" afterPath="$PROJECT_DIR$/../scala-if-else - Completed" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,79 +18,45 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1737323636">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="11" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.13" value="2" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="13" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="sc" value="5" />
-          <entry key="scala" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Scala" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="sc" value="618" />
-          <entry key="scala" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Scala" value="622" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Practical4 - conditions.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="187">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/UnitTest1FizzBuzz.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/Practical1.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/UnitTestFizzBuzzSpec.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/Practical9 - Collections.sc">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Practical6 - functions.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="1139">
+              <caret line="67" column="3" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/UnitTest1FizzBuzzSpec.scala">
+        <entry file="file://$PROJECT_DIR$/Practical3.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -188,10 +98,14 @@
         <option value="$PROJECT_DIR$/src/Practical8 - UnitTest2.sc" />
         <option value="$PROJECT_DIR$/src/Practical7 - UnitTest1.sc" />
         <option value="$PROJECT_DIR$/src/test/UnitTestFizzBuzzSpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/Practical1.sc" />
+        <option value="$PROJECT_DIR$/src/main/Practical4 - conditions.sc" />
+        <option value="$PROJECT_DIR$/src/main/Practical6 - functions.sc" />
+        <option value="$PROJECT_DIR$/src/main/Practical9 - Collections.sc" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -202,8 +116,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,18 +128,7 @@
             <path>
               <item name="Scala101-worksheets" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scala101-worksheets" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Scala101-worksheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scala101-worksheets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Scala101-worksheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scala101-worksheets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Scala101-worksheets" type="b2602c69:ProjectViewProjectNode" />
@@ -235,9 +138,7 @@
             </path>
             <path>
               <item name="Scala101-worksheets" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scala101-worksheets" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -246,12 +147,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542562278973" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547717982147" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../DDCT" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -273,12 +174,13 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -286,6 +188,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -300,10 +209,20 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23676248" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25189108" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -317,11 +236,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295082" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32569557" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -330,20 +249,11 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Practical1.sc" />
-    <entry file="file://$PROJECT_DIR$/Practical3.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Practical2.sc" />
     <entry file="file://$PROJECT_DIR$/src/Practical5 - conditions.sc" />
     <entry file="file://$PROJECT_DIR$/src/Practical8 - UnitTest2.sc" />
@@ -351,33 +261,42 @@
     <entry file="file://$PROJECT_DIR$/src/Practical6 - functions.sc" />
     <entry file="file://$PROJECT_DIR$/src/Practical7 - UnitTest1.sc" />
     <entry file="file://$PROJECT_DIR$/src/UnitTest1FizzBuzz.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/UnitTest1FizzBuzz.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/UnitTest1FizzBuzzSpec.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/UnitTestFizzBuzzSpec.scala" />
+    <entry file="file://$PROJECT_DIR$/src/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Practical4 - conditions.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/UnitTest1FizzBuzz.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/Practical6 - functions.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="1139">
+          <caret line="67" column="3" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/UnitTest1FizzBuzzSpec.scala">
+    <entry file="file://$PROJECT_DIR$/Practical3.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/UnitTestFizzBuzzSpec.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/Practical1.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Practical9 - Collections.sc">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -408,7 +327,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala-sdk-2.12.6</last-edited>
+          <last-edited>scala-sdk-2.11.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -420,7 +339,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -437,7 +356,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

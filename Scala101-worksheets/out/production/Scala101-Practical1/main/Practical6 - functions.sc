@@ -75,4 +75,3 @@ val d = nameLength("Arnold", "Swartzeneggar")
 val e= nameLength("Bruce", "Lee")
 val f= nameLength("Ethan", "Hawke")
 
-
